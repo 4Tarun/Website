@@ -1,0 +1,81 @@
+#topbar {
+    padding-top: 10px;
+    height: 100%;
+    position: relative;
+    /* background-color: red; */
+
+}
+
+.topbar_left_menu {
+    height: 100%;
+    padding: 10px 13px 10px 11px;
+    margin: 0 auto;
+    /* position: static; */
+    font-display: bold;
+    font-size: large;
+    float: left;
+    /* background-color: red; */
+}
+
+.topbar_right_menu {
+    height: 100%;
+    padding: 10px 13px 10px 11px;
+    margin: 0 auto;
+    /* position: static; */
+    font-display: bold;
+    font-size: large;
+    float: right;
+    /* background-color: red; */
+}
+
+#logo {
+    margin: 0 auto;
+    height: 100%;
+    width: 100px;
+    float:left;
+    padding-top: 10px 13px 10px 1px ;
+    /* position: static; */
+    /* background-color: red; */
+    
+}
+
+.clear {
+    clear: both;
+}
+
+#phone {
+    float: left;
+    position: relative;
+    /* padding: 50px 200px 0px 100px; */
+    font-size: xx-large;
+    /* background-color: blue; */
+}
+
+#text {
+    float: left;
+    /* background-color: brown; */
+}
+
+#photo {
+    float: right;
+    padding: 10px 100px 0px 200px;
+    
+}
+#cost {
+    float:left;
+    font-size: x-large;
+    padding: 50px 200px 0px 0px;
+    
+}
+
+#info {
+    float: left;
+    position: -webkit-sticky;
+    padding: 50px 20px 0px 0px;
+}
+
+#color {
+    background-color: red;
+    width: fit-content;
+}
+
